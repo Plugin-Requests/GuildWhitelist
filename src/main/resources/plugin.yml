@@ -1,0 +1,8 @@
+name: GuildWhitelist
+description: Allows only people in your Hypixel guild.
+
+author: SavageAvocado
+website: https://www.savagedev.net/
+
+version: ${version}
+main: net.savagedev.guildwhitelist.GuildWhitelist

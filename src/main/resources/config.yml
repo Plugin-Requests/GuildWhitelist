@@ -1,0 +1,12 @@
+# Join Hypixel and run the command "/api" to get this.
+api-key: "hypixel-api-key"
+
+# The name of your Hypixel guild.
+guild-name: "stray kids"
+
+# The message sent when a random tries to join your server.
+kick-message: "&cOnly Stray Kids guild members allowed!"
+
+# These people will be allowed on the server whether they are in your guild or not.
+# You can get people's UUIDs on https://namemc.com
+whitelist: [ 4db0a788-716a-4d59-894d-f9bbb23ce851 ]
